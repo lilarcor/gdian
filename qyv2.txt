@@ -1,4 +1,3 @@
-DOMAIN-SUFFIX,minghui.org,gdian
 DOMAIN-SUFFIX,dafahao.org,gdian
 DOMAIN-SUFFIX,minghui.org,gdian
 DOMAIN-SUFFIX,dongtaiwang.org,gdian
