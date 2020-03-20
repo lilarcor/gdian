@@ -25,9 +25,6 @@ DOMAIN-SUFFIX,ntdtv.net,gdian
 DOMAIN-SUFFIX,falundafa.net,gdian
 DOMAIN-SUFFIX,wujieliulan.net,gdian
 DOMAIN-SUFFIX,zhengjian.net,gdian
-DOMAIN-SUFFIX,open.cn,gdian
-DOMAIN-SUFFIX,open.com,gdian
-DOMAIN-SUFFIX,open.org,gdian
 DOMAIN-SUFFIX,chinaaffairs.cn,gdian
 DOMAIN-SUFFIX,chinaaffairs.com,gdian
 DOMAIN-SUFFIX,chinaaffairs.org,gdian
